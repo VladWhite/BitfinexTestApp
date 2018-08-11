@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BitfinexTestApp</string>
+    <string name="url">wss://api.bitfinex.com/ws</string>
+    <string name="lowEntries">lowEntries</string>
+    <string name="highEntries">highEntries</string>
+    <string name="TAG_ERROR">Ошибка</string>
+    <string name="endTicker">Получение тикеров завершено</string>
+    <string name="errorTicker">Ошибка получения тикера</string>
+    <string name="communicationError">Ошибка связи</string>
+    <string name="tickerLow">Ежедневный минимум биткоина</string>
+    <string name="tickerHigh">Ежедневный максимум биткоина</string>
+    <string name="usd">USD</string>
+</resources>
